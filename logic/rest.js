@@ -24,25 +24,7 @@ module.exports= {
                             }
                         })
                     } 
-                     })
-                     
-                     
-                     
-                     
-                     
-                   /*  [
-                        {
-                        
-                       
-                            catname:res.menu[index].catname,
-                          cat:[{
-                            itemname :res.menu[index].cat[index2].itemname,
-                            itemprice : res.menu[index].cat[index2].itemprice,
-                          }]  
-                            
-                        
-                    }]*/
-                   
+                     })    
                 }
             })
         })
